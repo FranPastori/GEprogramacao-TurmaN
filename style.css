@@ -1,15 +1,24 @@
 body {
-		background-color: gray;
+	background-color: #DCDCDC;
+}
 
+h1  {
+	 text-align: center;
+	 color: #006400;
+	
 }
-h1 {
-	color: red;
-	text-align: center;
+
+h3 {
+	color:#32CD32;
 }
+
 b {
-	color: blue;
-	font-size:50px ;
+	color:rgb(50, 205, 50) ;
+	font-size: 20px;
 }
 
-i { color: yellow;
- }
+i {
+	color: #32CD32;
+	font-size: 30px;
+
+}
