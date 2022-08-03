@@ -1,19 +1,28 @@
 body {
-	background-color: #DCDCDC;
+	background-color: #83bf34;
 }
 
+header, footer {
+ 	background-color: rgb(242, 90,138);
+
+}
+
+main {
+
+	background-color: #acf497;
+}
 h1  {
 	 text-align: center;
-	 color: #006400;
+	 color: #black;
 	
 }
 
 h3 {
-	color:#32CD32;
+	color:black;
 }
 
 b {
-	color:rgb(50, 205, 50) ;
+	color:rgb(242, 90, 138) ;
 	font-size: 20px;
 }
 
