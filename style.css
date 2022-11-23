@@ -11,9 +11,13 @@ main {
 
 	background-color: #acf497;
 }
+section{
+	background-color: lightslategray;
+}
+
 h1  {
 	 text-align: center;
-	 color: #black;
+	 color: black;
 	
 }
 
