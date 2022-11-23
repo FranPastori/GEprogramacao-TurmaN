@@ -35,3 +35,15 @@ i {
 	font-size: 30px;
 
 }
+
+.aspectos__imagem{
+
+	width: 200px;
+	height: inherit;
+}
+ 
+.aspectos li {
+
+	border: black 6px;
+	border-style: solid;
+}
